@@ -10,6 +10,7 @@ Source code of the manuscript **Quantitative single cell 5hmC sequencing reveals
 * NATURE-BIOTECHNOLOGY_Figure2.r: source code for generating Figures 2d and 2e
 * NATURE-BIOTECHNOLOGY_Figure3.r: source code for generating Figure 3a, 3b, 3d, 3e, and 3f 
 * NATURE-BIOTECHNOLOGY_Figure4.r: source code for generating Figure 4a, 4b and 4d
+* NATURE-BIOTECHNOLOGY_Figure5.r: source code for generating Figure 5c
 * NATURE-BIOTECHNOLOGY_Figure6.r: source code for generating Figure 6a, 6b, 6d, 6e, 6f and 6g
 
 
