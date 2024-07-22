@@ -1,9 +1,8 @@
-Title: "NATURE BIOTECHNOLOGY README"
-Author: "Peng"
-Date: "2023/06/25"
+# Title: NATURE BIOTECHNOLOGY README
+## Author: Peng Hu
 
 
-Source code of the manuscript **Quantitative single cell 5hmC sequencing reveals non-canonical gene regulation by non-CG hydroxymethylation** (NATURE BIOTECHNOLOGY) 
+Source code of the manuscript **Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene regulatory effects** (NATURE BIOTECHNOLOGY) 
 
 # Content
 * NATURE-BIOTECHNOLOGY_Figure1.r: source code for generating Figures 1f
@@ -17,7 +16,7 @@ Source code of the manuscript **Quantitative single cell 5hmC sequencing reveals
 # Reference
 If you found this code useful, please cite the following paper:
 
-[Fabyanic E B, Hu P, Qiu Q, et al. Quantitative single cell 5hmC sequencing reveals non-canonical gene regulation by non-CG hydroxymethylation[J]](https://www.biorxiv.org/content/10.1101/2021.03.23.434325v2.full.pdf)
+[Fabyanic E B, Hu P, Qiu Q, et al. Joint single-cell profiling resolves 5mC and 5hmC and reveals their distinct gene regulatory effects[J]](https://www.nature.com/articles/s41587-023-01909-2)
 
 
 # Contact
